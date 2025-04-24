@@ -1,4 +1,4 @@
-# API AI
+# SPRING + AI
 
 Este é um projeto que combina Spring Boot com Spring AI para criar uma API inteligente.
 
