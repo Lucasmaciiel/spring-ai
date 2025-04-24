@@ -19,7 +19,7 @@ Este é um projeto que combina Spring Boot com Spring AI para criar uma API inte
 
 1. Clone o repositório:
 ```bash
-git clone git@github.com:Lucasmaciiel/spring-ia.git
+git clone git@github.com:Lucasmaciiel/spring-ai.git
 ```
 
 2. Configure as variáveis de ambiente:
